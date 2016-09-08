@@ -1,0 +1,21 @@
+span#message1 
+{
+	color:green;
+	border:1px solid green;
+	padding:2px;
+
+
+}
+
+span#message2
+{
+	color:red;
+	border:1px solid red;
+	padding:2px;
+}
+
+span#message3
+{
+	display:none;
+}
+
